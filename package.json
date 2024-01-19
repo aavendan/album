@@ -2,7 +2,7 @@
   "name": "album",
   "private": false,
   "version": "0.0.0",
-  "homepage": "https://aavendan.github.io/photos/",
+  "homepage": "https://aavendan.github.io/photos",
   "type": "module",
   "scripts": {
     "dev": "vite",
