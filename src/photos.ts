@@ -7,10 +7,10 @@ const unsplashLink = (id: string) =>
   `https://raw.githubusercontent.com/aavendan/photos/main/src/assets/imagenes/${id}.jpg`;
 
 const unsplashPhotos = [
-    { id: "photo9", width: 960, height: 720 },
-    { id: "photo12", width: 473, height: 593 },
-    { id: "photo10", width: 960, height: 720 },
-    { id: "photo11", width: 473, height: 593 },
+    { id: "photo9", width: 787, height: 1600 },
+    { id: "photo12", width: 720, height: 559 },
+    { id: "photo10", width: 787, height: 1600 },
+    { id: "photo11", width: 1280, height: 720 },
     { id: "photo5", width: 1243, height: 1223 },
     { id: "photo6", width: 720, height: 960 },
     { id: "photo7", width: 960, height: 720 },
