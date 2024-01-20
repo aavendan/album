@@ -4,7 +4,7 @@ const breakpoints = [1080, 640, 384, 256, 128, 96, 64, 48];
 //   `https://source.unsplash.com/${id}/${width}x${height}`;
 
 const unsplashLink = (id: string) =>
-  `https://raw.githubusercontent.com/aavendan/photos/main/src/assets/imagenes/${id}.jpg`;
+  `https://raw.githubusercontent.com/aavendan/album/main/src/assets/imagenes/${id}.jpg`;
 
 const unsplashPhotos = [
     { id: "photo9", width: 787, height: 1600 },
