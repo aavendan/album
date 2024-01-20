@@ -24,7 +24,7 @@ const unsplashPhotos = [
     
 ]
 
-const shuffle = (array) => {
+const shuffle = (array: any) => {
   let currentIndex = array.length,  randomIndex;
 
   // While there remain elements to shuffle.
