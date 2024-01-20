@@ -19,7 +19,8 @@ const unsplashPhotos = [
     { id: "photo1", width: 1152, height: 864 },
     { id: "photo2", width: 1280, height: 720 },
     { id: "photo3", width: 665, height: 540 },
-    
+    { id: "photo13", width: 1290, height: 961 },
+    { id: "photo14", width: 1599, height: 899 },
     
 ]
 
