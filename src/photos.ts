@@ -7,6 +7,7 @@ const unsplashLink = (id: string) =>
   `https://raw.githubusercontent.com/aavendan/album/main/src/assets/imagenes/${id}.jpg`;
 
 const unsplashPhotos = [
+    { id: "photo4", width: 720, height: 540 },
     { id: "photo9", width: 787, height: 1600 },
     { id: "photo12", width: 720, height: 559 },
     { id: "photo10", width: 787, height: 1600 },
@@ -18,7 +19,7 @@ const unsplashPhotos = [
     { id: "photo1", width: 1152, height: 864 },
     { id: "photo2", width: 1280, height: 720 },
     { id: "photo3", width: 665, height: 540 },
-    { id: "photo4", width: 720, height: 540 },
+    
     
 ]
 

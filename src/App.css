@@ -3,7 +3,9 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-}.photo-frame {
+}
+
+.photo-frame, img {
   display: block;
   box-sizing: content-box;
   position: relative;
@@ -108,3 +110,5 @@
 .read-the-docs {
   color: #888;
 }
+
+
