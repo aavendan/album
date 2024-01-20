@@ -117,7 +117,7 @@ html {
 }
 
 
- img:not(:hover) {
+ /* img:not(:hover) {
   filter: grayscale(0.4);
   opacity: 0.6;
-  }
+  } */
