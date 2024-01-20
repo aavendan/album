@@ -42,7 +42,7 @@ const shuffle = (array: any) => {
   return array;
 }
 
-const photos = shuffle(unsplashPhotos).map((photo) => ({
+const photos = shuffle(unsplashPhotos).map((photo:any) => ({
   src: unsplashLink(photo.id),
   width: photo.width,
   height: photo.height,

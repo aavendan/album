@@ -7,6 +7,7 @@ import "./index.css";
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
     <main>
+      <h1>¡Feliz viaje, Amalia y JuanK!</h1>
       <App />
     </main>
   </React.StrictMode>,
